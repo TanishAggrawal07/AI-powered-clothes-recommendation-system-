@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Large datasets
+dataset/
+dataset.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/

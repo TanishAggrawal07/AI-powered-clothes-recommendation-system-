@@ -1,0 +1,9 @@
+opencv-python
+numpy
+torch
+tensorflow
+keras
+safetensors
+transformers
+python-dotenv
+requests
